@@ -32,3 +32,33 @@ __pycache__/
 /work/font/*.png
 /*.log
 /work/glossary/library.json
+
+# Chinese public target data: explicit exceptions only.
+!/work/translation/zh_CN/translations.zh_CN.json
+!/work/translation/zh_CN/build_overrides.v0.2.1.json
+!/work/translation/zh_CN/build_choice_fixes.v0.2.1.json
+!/work/translation/zh_CN/build_runtime_fixes.v0.2.4.json
+!/work/translation/zh_CN/full_ui/exe_strings.zh.json
+!/work/translation/zh_CN/full_ui/manual.zh.json
+!/work/translation/zh_CN/full_ui/graphics.zh.json
+!/work/translation/zh_CN/full_ui/movies.zh_CN.json
+!/work/translation/zh_CN/graphics_full_assets/EVENT_0230_restoration.delta.json
+/work/translation/**/*.jsonl
+!/work/translation/zh_CN/chosen_sources.public.jsonl
+
+# Downloaded runtimes and private build / QA material.
+/tools/movie_runtime/
+/movie_env/
+/.venv/
+/.pytest_cache/
+*.str
+*.xa
+*.dat
+*.state
+*.sav
+*.srm
+*.dmp
+/work/translation/zh_CN/graphics_full/
+/work/translation/zh_CN/movies/
+/work/translation/zh_CN/graphics_full_assets/*.png
+*.DS_Store
