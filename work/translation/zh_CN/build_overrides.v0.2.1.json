@@ -1,0 +1,36 @@
+{
+  "version": "0.2.1",
+  "status": "source_pinned_build_corrections",
+  "rows": [
+    {
+      "uid": "U01051",
+      "source_sha256": "ee8ad367f23abf01d5c5b63387a868f273591ed50571d21afb6e0849e8e6efae",
+      "zh_CN": "\"好，就选正面！\"\n\"不，等等……还是反面吧！\"",
+      "reason": "Preserve selectable option boundaries; correct coin faces or broken proper-name placement after MT."
+    },
+    {
+      "uid": "U01256",
+      "source_sha256": "77bb891005621ac8d4c1947d140954bb192884520906aa12a8bff7df9a1be266",
+      "zh_CN": "\"果然……我们还是需要本乡先生。\"\n\"这次就我们自己来吧。\"",
+      "reason": "Preserve selectable option boundaries; correct coin faces or broken proper-name placement after MT."
+    },
+    {
+      "uid": "U21408",
+      "source_sha256": "b259d2df08fa205517e750d00a1c9958cfa801026adcb09f3b0824cd5dca032f",
+      "zh_CN": "BGM",
+      "reason": "Native audio/debug identifier: retain exact abbreviation, not Google geographic or power-unit expansion."
+    },
+    {
+      "uid": "U21409",
+      "source_sha256": "f031b70a2653be44af3a20aa33ad0f35d8a256046c108cfcaa3480988b4b383b",
+      "zh_CN": "SE",
+      "reason": "Native audio/debug identifier: retain exact abbreviation, not Google geographic or power-unit expansion."
+    },
+    {
+      "uid": "U21415",
+      "source_sha256": "9d47f4fb0dd76ec7b053699362443a17de64c23c1bc937a1eec7677554c6d69d",
+      "zh_CN": "MW",
+      "reason": "Native audio/debug identifier: retain exact abbreviation, not Google geographic or power-unit expansion."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "version": "0.2.4",
+  "status": "source_pinned_runtime_corrections",
+  "rows": [
+    {
+      "uid": "U19570",
+      "source_sha256": "946f88a1b4ffbad2f38f650d65aae788f40ceb88d21c73df67dd33a7d895cf98",
+      "zh_CN": "盖尔修卡战斗员",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U19686",
+      "source_sha256": "8d21ea432b8198d9ae992105d09a251e456490c111b18d6a402684c53061821f",
+      "zh_CN": "修卡摩托车队",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U19688",
+      "source_sha256": "3a6e192e7785ae2b3839003db2d739d7acc581e81f36dac63b236b42ba2d9c51",
+      "zh_CN": "修卡战斗员（贝雷帽）",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U19690",
+      "source_sha256": "8fc895557d5e7bf2dbafb2c52f4845b36a49130215b34fb0dd6f6e18c745ff46",
+      "zh_CN": "修卡战斗员（面具）",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U19803",
+      "source_sha256": "e3c8fe8e93e00c59022cf7dcefdda5ccd10967bd384d609eafc93de5805e644a",
+      "zh_CN": "迪斯特龙摩托车队",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U20905",
+      "source_sha256": "9154ac9b309b9fe5650a8fb9147145a19df55bdd56c2e1667a5f338a64ab2fe2",
+      "zh_CN": "○：正常",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U20906",
+      "source_sha256": "9ee42a5f13a0a1c6e23d1612aeacf8d2a733e03c8ca828c168ad611d68a4ba5f",
+      "zh_CN": "□：简略",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U21401",
+      "source_sha256": "788215a0f9c7f76fade4b03ce3e5a0d53c206481f3cc3429518d3ec651dc0424",
+      "zh_CN": "○：正常",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U21402",
+      "source_sha256": "9ee42a5f13a0a1c6e23d1612aeacf8d2a733e03c8ca828c168ad611d68a4ba5f",
+      "zh_CN": "□：简略",
+      "reason": "Correct source military Grunt/Bike Squad meanings or compact PlayStation effect-button labels observed during battle QA."
+    },
+    {
+      "uid": "U20851",
+      "source_sha256": "61c82972f94964981adb8a58028cfafc306232c42b502b4d7ef910ef541109b3",
+      "zh_CN": "<c3>命中</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20889",
+      "source_sha256": "b62cad0b7211c7353733103884c3e50157d8115e89d926d1c2fd3d7877c53d39",
+      "zh_CN": "<c3>武器·必杀技",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20890",
+      "source_sha256": "18289b6941f5d13fbd0c51c1085878ee2d76044f1f63a31d89d66ee470a7c702",
+      "zh_CN": "<c3>攻击力</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20891",
+      "source_sha256": "4eabffbc7028280184c4f0d1a0f7d8d9374b91a23224ebdbfa33a2c745ec8000",
+      "zh_CN": "<c3>射程</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20892",
+      "source_sha256": "c7df10172593c5e8e2d18879084239c771c252a37149822b587775e352691da4",
+      "zh_CN": "<c3>弹数</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20893",
+      "source_sha256": "ab2a6d11bc7a69b5a05cb009dda63d00240c8052df7d03673ffa94451f4098fd",
+      "zh_CN": "<c3>暴击修正</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20894",
+      "source_sha256": "06e6bec1e270d8ae668a874fa069bf301abd69101d2cb0e20d0315b1d4a514f7",
+      "zh_CN": "<c3>所需气力</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20895",
+      "source_sha256": "a0da84a471c10e9548f43a106dc1811007d6a73a1306a51e867882ab570b5112",
+      "zh_CN": "<c3>消耗EN</c>",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20641",
+      "source_sha256": "ab5ac0ca226cd388ac342e80b8c64991c6ba3f0e820658932e85792e48ec3265",
+      "zh_CN": "命中",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20901",
+      "source_sha256": "f80f64f06f45cc5875a86dac8967e3c04aeca5d72435b05e7a968317cae323a9",
+      "zh_CN": "武器",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20902",
+      "source_sha256": "2bc468d8d53726b39c06369c5ad31a668ad9b05ff9871dfc352d44d6bb192132",
+      "zh_CN": "回避",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20903",
+      "source_sha256": "e188e4e8b4c7680cc679d5f1a8fd55dd94db422287dc3e079b506abbd73d2686",
+      "zh_CN": "无法反击",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U20911",
+      "source_sha256": "f231c4f621e5ce091c3566cf32a87f8f73630daa95c09bb4fe0f8b26f9444103",
+      "zh_CN": "攻击",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U21404",
+      "source_sha256": "d94681a52f03436b4cd6df0609910c0cea5dbf3cf969065f7c9524be5df60d3e",
+      "zh_CN": "武器",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U21405",
+      "source_sha256": "e7ecf3f8874700e1b0177e445ad8c2915768f25929a8cb434e059c83107347a2",
+      "zh_CN": "回避",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U21406",
+      "source_sha256": "b29d24eeb315ff9f12e38839317135710d525a24371ba520d42dc5e38bd1bed0",
+      "zh_CN": "防御",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    },
+    {
+      "uid": "U21407",
+      "source_sha256": "b2c2b6f1a567ec8298f9eb4f992bb2588ef2e06d37476767ff24a769da689d7b",
+      "zh_CN": "命中",
+      "reason": "Repair source-Japanese-confirmed weapon/prebattle abbreviation meanings observed at runtime."
+    }
+  ]
+}
