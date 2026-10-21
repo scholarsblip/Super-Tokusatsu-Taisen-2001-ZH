@@ -1,0 +1,33 @@
+{
+  "version": "0.2.5",
+  "source_original_bytes": 725316816,
+  "source_original_sha256": "219d9c4f64caf670b5e400612fa19677ed9a3f59a7ebdb72c12c425412795465",
+  "public_chosen_manifest_sha256": "c7a41691cb15cb4d86ef553a5dcb4d9912f69b275c9d2fafebc8038387db75eb",
+  "clean_setup_passed": true,
+  "input_objects_exactly_match_historical_build": [
+    "units.json",
+    "strings.json",
+    "extra_occurrences.json",
+    "all_units.input.jsonl"
+  ],
+  "core_build_passed": true,
+  "core_bytes": 725316816,
+  "core_sha256": "2e6ad5a1a3116fcee9ad85a3f8160764b4b1a56901b5518442594eecc2d15527",
+  "core_matches_delivered_core_byte_for_byte": true,
+  "core_units": 21508,
+  "core_occurrences": 41437,
+  "font_plan_sha256": "613b4312d403057084d4b5744f84bba228a55d381ddbc1e5e3a33e6ad1a9c13c",
+  "final_delivered_movie_build_sha256": "775632e181373ba49a0d6f8132cb2e6d8aaccc3fe40743713af99087f7e4aba5",
+  "movie_portability_original_source_dry_run_passed": true,
+  "movie_pipeline_reencoded_during_public_source_check": false,
+  "historical_final_movie_decode_ecc_roundtrip_passed": true,
+  "full_playthrough_verified": false,
+  "all_branches_verified": false,
+  "natural_unlocked_encyclopedia_verified": false,
+  "tested_environment": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "pillow": "12.3.0",
+    "freetype": "2.14.3"
+  }
+}
