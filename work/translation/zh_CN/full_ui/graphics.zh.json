@@ -1,0 +1,2368 @@
+{
+  "language": "zh_CN",
+  "version": "0.1.0",
+  "font": "CJK font and compact Chinese battle-callout renderer required; no raster changes have been applied.",
+  "notes": [
+    "Draft Simplified Chinese translation. Legacy en text-field keys contain Chinese so the target schemas and all coordinates stay unchanged.",
+    "Native Japanese title-card database strings were used where available; EVENT 72 and 97 still require raster reading.",
+    "Scene-level glossary review and emulator layout validation are pending.",
+    "The 24x8 Critical callouts need a dedicated pixel renderer; filling their en field with Chinese does not make the old Latin renderer support Chinese.",
+    "Draft proper-name transliterations are documented in ui_translation_report.json. They are not claimed as official Chinese spellings.",
+    "Two extra raster-only episode cards (EVENT 72 and 97) use English reference pending direct raster reading.",
+    "Japanese-reading encyclopedia tabs remain unchanged because their index categories have not been rebuilt for Chinese."
+  ],
+  "targets": [
+    {
+      "archive": "EVENT",
+      "entry": 52,
+      "kind": "episode",
+      "en": "坠落地球的男人",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1305,
+      "uid": "U21105"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 53,
+      "kind": "episode",
+      "en": "被扭曲的生命",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1306,
+      "uid": "U21106"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 54,
+      "kind": "episode",
+      "en": "修卡的阴谋",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1307,
+      "uid": "U21107"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 55,
+      "kind": "episode",
+      "en": "另一位假面骑士",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1308,
+      "uid": "U21108"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 56,
+      "kind": "episode",
+      "en": "恐怖的新人类",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1309,
+      "uid": "U21109"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 57,
+      "kind": "episode",
+      "en": "少年与机器人",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1310,
+      "uid": "U21110"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 58,
+      "kind": "episode",
+      "en": "猛攻！修卡日本支部",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1311,
+      "uid": "U21111"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 59,
+      "kind": "episode",
+      "en": "追击！宇宙刑事卡邦",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1312,
+      "uid": "U21112"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 60,
+      "kind": "episode",
+      "en": "邪恶学者",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1313,
+      "uid": "U21113"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 61,
+      "kind": "episode",
+      "en": "斗姬",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1314,
+      "uid": "U21114"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 62,
+      "kind": "episode",
+      "en": "人造人",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1315,
+      "uid": "U21115"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 63,
+      "kind": "episode",
+      "en": "三方混战",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1316,
+      "uid": "U21116"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 64,
+      "kind": "episode",
+      "en": "来自地狱的使者",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1317,
+      "uid": "U21117"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 65,
+      "kind": "episode",
+      "en": "机械之躯的苦恼",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1318,
+      "uid": "U21118"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 66,
+      "kind": "episode",
+      "en": "兄弟的羁绊",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1319,
+      "uid": "U21119"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 67,
+      "kind": "episode",
+      "en": "EATER",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1320,
+      "uid": "U21120"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 68,
+      "kind": "episode",
+      "en": "父亲啊",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1321,
+      "uid": "U21121"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 69,
+      "kind": "episode",
+      "en": "双骑士改造大作战",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1322,
+      "uid": "U21122"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 70,
+      "kind": "episode",
+      "en": "盖尔达姆团",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1323,
+      "uid": "U21123"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 71,
+      "kind": "episode",
+      "en": "幻梦",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1324,
+      "uid": "U21124"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 72,
+      "kind": "episode",
+      "en": "不思议界",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "mapping": "extra card; visually confirmed 2026-10-08"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 73,
+      "kind": "episode",
+      "en": "奥特作战第一号",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1325,
+      "uid": "U21125"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 74,
+      "kind": "episode",
+      "en": "五星齐聚之时",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1326,
+      "uid": "U21126"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 75,
+      "kind": "episode",
+      "en": "智慧暴走",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1327,
+      "uid": "U21127"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 76,
+      "kind": "episode",
+      "en": "巨人们的咆哮",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1328,
+      "uid": "U21128"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 77,
+      "kind": "episode",
+      "en": "记忆中的母亲",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1329,
+      "uid": "U21129"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 78,
+      "kind": "episode",
+      "en": "超合金巴洛尼姆",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1330,
+      "uid": "U21130"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 79,
+      "kind": "episode",
+      "en": "骑士3号，其名为V3！",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1331,
+      "uid": "U21131"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 80,
+      "kind": "episode",
+      "en": "天使？恶魔？美人侠现身",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1332,
+      "uid": "U21132"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 81,
+      "kind": "episode",
+      "en": "打击侵略者",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1333,
+      "uid": "U21133"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 82,
+      "kind": "episode",
+      "en": "虚假的巨人",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1334,
+      "uid": "U21134"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 83,
+      "kind": "episode",
+      "en": "复仇的战鬼",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1335,
+      "uid": "U21135"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 84,
+      "kind": "episode",
+      "en": "泽巴的新力量",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1336,
+      "uid": "U21136"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 85,
+      "kind": "episode",
+      "en": "复仇的战旗",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1337,
+      "uid": "U21137"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 86,
+      "kind": "episode",
+      "en": "三年前",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1338,
+      "uid": "U21138"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 87,
+      "kind": "episode",
+      "en": "次元扭曲力场",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1339,
+      "uid": "U21139"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 88,
+      "kind": "episode",
+      "en": "怪兽总进击",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1340,
+      "uid": "U21140"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 89,
+      "kind": "episode",
+      "en": "盖泽尔的挑战",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1341,
+      "uid": "U21141"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 90,
+      "kind": "episode",
+      "en": "再见了，奥特曼",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1342,
+      "uid": "U21142"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 91,
+      "kind": "episode",
+      "en": "再见了，霹雳斗牛犬",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1343,
+      "uid": "U21143"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 92,
+      "kind": "episode",
+      "en": "世纪王黑日",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1344,
+      "uid": "U21144"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 93,
+      "kind": "episode",
+      "en": "奥特警备队第七位成员",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1345,
+      "uid": "U21145"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 94,
+      "kind": "episode",
+      "en": "木乃伊的呼喊",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1346,
+      "uid": "U21146"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 95,
+      "kind": "episode",
+      "en": "笼中鸟",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1347,
+      "uid": "U21147"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 96,
+      "kind": "episode",
+      "en": "恸哭",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1348,
+      "uid": "U21148"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 97,
+      "kind": "episode",
+      "en": "新战士纯登场",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "mapping": "extra card; visually confirmed 2026-10-08"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 98,
+      "kind": "episode",
+      "en": "心之声，传达给你",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1350,
+      "uid": "U21150"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 99,
+      "kind": "episode",
+      "en": "坠落地球的男人",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1305,
+      "uid": "U21105"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 100,
+      "kind": "episode",
+      "en": "通往黑暗的序曲",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1352,
+      "uid": "U21152"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 101,
+      "kind": "episode",
+      "en": "剑圣复苏",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1353,
+      "uid": "U21153"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 102,
+      "kind": "episode",
+      "en": "超合金巴洛尼姆",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1330,
+      "uid": "U21130"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 103,
+      "kind": "episode",
+      "en": "超级兵器R1号",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1355,
+      "uid": "U21155"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 104,
+      "kind": "episode",
+      "en": "不死鸟起飞了",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1354,
+      "uid": "U21154"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 105,
+      "kind": "episode",
+      "en": "交给安妮吧",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1356,
+      "uid": "U21156"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 106,
+      "kind": "episode",
+      "en": "命运的王子",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1357,
+      "uid": "U21157"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 107,
+      "kind": "episode",
+      "en": "远东基地SOS",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1358,
+      "uid": "U21158"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 108,
+      "kind": "episode",
+      "en": "钢帝来袭",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1359,
+      "uid": "U21159"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 109,
+      "kind": "episode",
+      "en": "其名为一八",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1360,
+      "uid": "U21160"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 110,
+      "kind": "episode",
+      "en": "重逢",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1361,
+      "uid": "U21161"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 111,
+      "kind": "episode",
+      "en": "地球防卫会议",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1363,
+      "uid": "U21163"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 112,
+      "kind": "episode",
+      "en": "黄昏死斗",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1362,
+      "uid": "U21162"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 113,
+      "kind": "episode",
+      "en": "黑色十字架",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1364,
+      "uid": "U21164"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 114,
+      "kind": "episode",
+      "en": "大海战",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1365,
+      "uid": "U21165"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 115,
+      "kind": "episode",
+      "en": "禁忌之言",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1366,
+      "uid": "U21166"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 116,
+      "kind": "episode",
+      "en": "良心回路",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1367,
+      "uid": "U21167"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 117,
+      "kind": "episode",
+      "en": "创世王的末日",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1368,
+      "uid": "U21168"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 118,
+      "kind": "episode",
+      "en": "光荣的骑士4号",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1369,
+      "uid": "U21169"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 119,
+      "kind": "episode",
+      "en": "迪斯帕城崩溃",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1370,
+      "uid": "U21170"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 120,
+      "kind": "episode",
+      "en": "赤射·蒸着·烧结",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1371,
+      "uid": "U21171"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 121,
+      "kind": "episode",
+      "en": "剑豪瓦尔达死于拂晓",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1372,
+      "uid": "U21172"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 122,
+      "kind": "episode",
+      "en": "奥特之星闪耀之时（后篇）",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1373,
+      "uid": "U21173"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 123,
+      "kind": "episode",
+      "en": "奇迹的帝王石",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1374,
+      "uid": "U21174"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 124,
+      "kind": "episode",
+      "en": "射向宇宙之箭",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1375,
+      "uid": "U21175"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 125,
+      "kind": "episode",
+      "en": "幻之雪山",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1376,
+      "uid": "U21176"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 126,
+      "kind": "episode",
+      "en": "将爱献给星空",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1377,
+      "uid": "U21177"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 127,
+      "kind": "episode",
+      "en": "觉醒的RX",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1378,
+      "uid": "U21178"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 128,
+      "kind": "episode",
+      "en": "激怒的斗姬",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1379,
+      "uid": "U21179"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 129,
+      "kind": "episode",
+      "en": "被托付的思念",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1388,
+      "uid": "U21188"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 130,
+      "kind": "episode",
+      "en": "再见了，亲爱的弟弟",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1381,
+      "uid": "U21181"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 131,
+      "kind": "episode",
+      "en": "赤红的大胜利",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1382,
+      "uid": "U21182"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 132,
+      "kind": "episode",
+      "en": "灾厄流星",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1383,
+      "uid": "U21183"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 133,
+      "kind": "episode",
+      "en": "消失于夜之运河",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1384,
+      "uid": "U21184"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 134,
+      "kind": "episode",
+      "en": "暗杀赛文计划（后篇）",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1385,
+      "uid": "U21185"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 135,
+      "kind": "episode",
+      "en": "暗杀赛文计划（前篇）",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1386,
+      "uid": "U21186"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 136,
+      "kind": "episode",
+      "en": "奥特之星闪耀之时（前篇）",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1387,
+      "uid": "U21187"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 137,
+      "kind": "episode",
+      "en": "永远的骑士",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1349,
+      "uid": "U21149"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 138,
+      "kind": "episode",
+      "en": "最后的愿望",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1380,
+      "uid": "U21180"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 139,
+      "kind": "episode",
+      "en": "圣夜",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1389,
+      "uid": "U21189"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 140,
+      "kind": "episode",
+      "en": "最终任务",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1390,
+      "uid": "U21190"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 141,
+      "kind": "episode",
+      "en": "迈向明天",
+      "regions": [
+        [
+          0,
+          18,
+          320,
+          84
+        ],
+        [
+          0,
+          100,
+          320,
+          128
+        ]
+      ],
+      "database_row": 1391,
+      "uid": "U21191"
+    },
+    {
+      "archive": "EVENT",
+      "entry": 45,
+      "kind": "disclaimer",
+      "regions": [
+        [
+          24,
+          98,
+          296,
+          152
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            24,
+            98,
+            296,
+            116
+          ],
+          "en": "本故事纯属虚构。",
+          "size": 16
+        },
+        {
+          "rect": [
+            24,
+            116,
+            296,
+            134
+          ],
+          "en": "与现实中的人物、",
+          "size": 16
+        },
+        {
+          "rect": [
+            24,
+            134,
+            296,
+            152
+          ],
+          "en": "团体均无关联。",
+          "size": 16
+        }
+      ]
+    },
+    {
+      "archive": "EVENT",
+      "entry": 174,
+      "kind": "narration",
+      "regions": [
+        [
+          8,
+          110,
+          312,
+          135
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            8,
+            110,
+            312,
+            135
+          ],
+          "en": "此后，近十二年过去了……",
+          "size": 16
+        }
+      ]
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 22,
+      "kind": "title_menu",
+      "regions": [
+        [
+          0,
+          208,
+          164,
+          228
+        ]
+      ],
+      "en": "图鉴"
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 23,
+      "block": 1,
+      "kind": "title_menu",
+      "regions": [
+        [
+          0,
+          208,
+          164,
+          228
+        ]
+      ],
+      "en": "图鉴"
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 26,
+      "block": 0,
+      "kind": "options",
+      "regions": [
+        [
+          13,
+          25,
+          78,
+          53
+        ],
+        [
+          13,
+          65,
+          78,
+          93
+        ],
+        [
+          13,
+          105,
+          78,
+          133
+        ],
+        [
+          44,
+          207,
+          278,
+          226
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            13,
+            25,
+            78,
+            53
+          ],
+          "en": "音乐",
+          "size": 17,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            13,
+            65,
+            78,
+            93
+          ],
+          "en": "演示",
+          "size": 17,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            13,
+            105,
+            78,
+            133
+          ],
+          "en": "战斗",
+          "size": 16,
+          "bold": 1,
+          "background": [
+            24,
+            70,
+            48
+          ],
+          "color": [
+            230,
+            255,
+            0
+          ]
+        },
+        {
+          "rect": [
+            44,
+            207,
+            278,
+            226
+          ],
+          "en": "○：确定／播放　□：停止",
+          "size": 15,
+          "background": [
+            0,
+            0,
+            0
+          ],
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 535,
+      "kind": "encyclopedia_index",
+      "regions": [
+        [
+          112,
+          15,
+          198,
+          34
+        ],
+        [
+          46,
+          35,
+          266,
+          52
+        ]
+      ],
+      "tabs": [
+        "A",
+        "KA",
+        "SA",
+        "TA",
+        "NA",
+        "HA",
+        "MA",
+        "YA",
+        "RA",
+        "WA"
+      ]
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 536,
+      "kind": "encyclopedia_entry",
+      "regions": [
+        [
+          22,
+          42,
+          108,
+          59
+        ]
+      ],
+      "en": "登场作品"
+    },
+    {
+      "archive": "BATTLE",
+      "entry": 537,
+      "kind": "encyclopedia_tab_font",
+      "regions": [
+        [
+          0,
+          0,
+          160,
+          16
+        ]
+      ],
+      "tabs": [
+        "A",
+        "KA",
+        "SA",
+        "TA",
+        "NA",
+        "HA",
+        "MA",
+        "YA",
+        "RA",
+        "WA"
+      ]
+    },
+    {
+      "archive": "EVENT",
+      "entry": 230,
+      "kind": "artwork_logo",
+      "en": "融机钢 路西法德",
+      "background": "work/translation/en/graphics/EVENT_0230_background.png",
+      "regions": [
+        [
+          0,
+          19,
+          320,
+          222
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            14,
+            91,
+            306,
+            120
+          ],
+          "en": "路西法德",
+          "size": 25
+        },
+        {
+          "rect": [
+            14,
+            121,
+            306,
+            141
+          ],
+          "en": "融机钢",
+          "size": 14
+        }
+      ]
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 17,
+      "kind": "battle_callout",
+      "regions": [
+        [
+          136,
+          0,
+          160,
+          8
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            136,
+            0,
+            160,
+            8
+          ],
+          "en": "暴击",
+          "font": "pixel_3x5"
+        }
+      ]
+    },
+    {
+      "archive": "MAPMAIN",
+      "entry": 25,
+      "kind": "battle_callout",
+      "regions": [
+        [
+          136,
+          0,
+          160,
+          8
+        ]
+      ],
+      "labels": [
+        {
+          "rect": [
+            136,
+            0,
+            160,
+            8
+          ],
+          "en": "暴击",
+          "font": "pixel_3x5"
+        }
+      ],
+      "block": 5
+    }
+  ]
+}
